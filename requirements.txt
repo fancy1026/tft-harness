@@ -1,0 +1,12 @@
+anthropic==1.8.0
+dxcam==0.3.0
+httpx==0.28.1
+imageio-ffmpeg==0.6.0
+numpy==2.4.6
+onnxruntime==1.30.0
+opencv-python==5.0.0.93
+pillow==12.3.0
+psutil==7.2.2
+PyDirectInput==1.0.4
+pywin32==312
+rapidocr==3.9.2

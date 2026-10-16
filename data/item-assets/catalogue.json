@@ -1,0 +1,514 @@
+{
+  "source": "https://raw.communitydragon.org/latest/cdragon/tft/en_us.json",
+  "items": [
+    {
+      "name": "Rabadon's Deathcap",
+      "api_name": "TFT_Item_RabadonsDeathcap",
+      "path": "data\\item-assets\\TFT_Item_RabadonsDeathcap.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_rabadonsdeathcap.png",
+      "sha256": "d9fbe80e47b464996813541ae0ffb88eb138b46394bac9041266613a4885457d",
+      "components": [
+        "Needlessly Large Rod",
+        "Needlessly Large Rod"
+      ]
+    },
+    {
+      "name": "Infinity Edge",
+      "api_name": "TFT_Item_InfinityEdge",
+      "path": "data\\item-assets\\TFT_Item_InfinityEdge.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_infinityedge.png",
+      "sha256": "239330d8e69d45a56c1e3842dd7906d11b30e2f2f14d7465e73babd746a2c20a",
+      "components": [
+        "B.F. Sword",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Protector's Vow",
+      "api_name": "TFT_Item_FrozenHeart",
+      "path": "data\\item-assets\\TFT_Item_FrozenHeart.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_frozenheart.png",
+      "sha256": "de2a228804d87f258502364b03b05040f6c8e3ea47a4e420058548698eae70f7",
+      "components": [
+        "Tear of the Goddess",
+        "Chain Vest"
+      ]
+    },
+    {
+      "name": "Spirit Visage",
+      "api_name": "TFT_Item_Redemption",
+      "path": "data\\item-assets\\TFT_Item_Redemption.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spiritvisagerr.png",
+      "sha256": "6bc05f008408be7f4d4057d8eea273b70759d7c8b295de414a789027d8d9dc8c",
+      "components": [
+        "Tear of the Goddess",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Tactician's Cape",
+      "api_name": "TFT_Item_TacticiansRing",
+      "path": "data\\item-assets\\TFT_Item_TacticiansRing.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_tacticiansring.png",
+      "sha256": "2b09a57429415452724d8ecc0f71f49e1327632c9a1ef1429eadf38463629b56",
+      "components": [
+        "Spatula",
+        "Frying Pan"
+      ]
+    },
+    {
+      "name": "Thief's Gloves",
+      "api_name": "TFT_Item_ThiefsGloves",
+      "path": "data\\item-assets\\TFT_Item_ThiefsGloves.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_thiefsgloves.png",
+      "sha256": "01cb86eed55ae70cd78e69a3f69eb174f69b2d0d39f91fc6e00ecdd67ea297c0",
+      "components": [
+        "Sparring Gloves",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Guinsoo's Rageblade",
+      "api_name": "TFT_Item_GuinsoosRageblade",
+      "path": "data\\item-assets\\TFT_Item_GuinsoosRageblade.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_guinsoosrageblade.png",
+      "sha256": "70a4bbe26daddd0fb7be5da1136a1c8ee935403d6fab493c53cc78a5239d17cc",
+      "components": [
+        "Recurve Bow",
+        "Needlessly Large Rod"
+      ]
+    },
+    {
+      "name": "Ionic Spark",
+      "api_name": "TFT_Item_IonicSpark",
+      "path": "data\\item-assets\\TFT_Item_IonicSpark.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_ionicspark.png",
+      "sha256": "8bd8005f53e4257f781d0ac94c3f042c0bcb54e5eb51e0ee1f6132d690c77cca",
+      "components": [
+        "Needlessly Large Rod",
+        "Negatron Cloak"
+      ]
+    },
+    {
+      "name": "Sterak's Gage",
+      "api_name": "TFT_Item_SteraksGage",
+      "path": "data\\item-assets\\TFT_Item_SteraksGage.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_steraksgage.png",
+      "sha256": "7d4713a5cef8b7ab393647a320744f96f7c7db6ea616ce3cac68e5448566463a",
+      "components": [
+        "B.F. Sword",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Dragon's Claw",
+      "api_name": "TFT_Item_DragonsClaw",
+      "path": "data\\item-assets\\TFT_Item_DragonsClaw.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_dragonsclaw.png",
+      "sha256": "994b344a540ac3b6d748fc141ac24d86a7321c7e14a397f443afde88449b9f7f",
+      "components": [
+        "Negatron Cloak",
+        "Negatron Cloak"
+      ]
+    },
+    {
+      "name": "Striker's Flail",
+      "api_name": "TFT_Item_PowerGauntlet",
+      "path": "data\\item-assets\\TFT_Item_PowerGauntlet.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_powergauntlet.png",
+      "sha256": "0d619c41da04f72ded9a70fc8f97a913ebbc331211128392016763f5208aba2d",
+      "components": [
+        "Giant's Belt",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Gargoyle Stoneplate",
+      "api_name": "TFT_Item_GargoyleStoneplate",
+      "path": "data\\item-assets\\TFT_Item_GargoyleStoneplate.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_gargoylestoneplate.png",
+      "sha256": "e3b5b64199be453ac65cb89709ce1dc6e977c63b0f7e4951b1a8512d7f80007b",
+      "components": [
+        "Chain Vest",
+        "Negatron Cloak"
+      ]
+    },
+    {
+      "name": "Bramble Vest",
+      "api_name": "TFT_Item_BrambleVest",
+      "path": "data\\item-assets\\TFT_Item_BrambleVest.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bramblevest.png",
+      "sha256": "36fb7e98a742b6bda36ae7c941197de5c5b1f63f954da736d3e7a2b7e52f78ed",
+      "components": [
+        "Chain Vest",
+        "Chain Vest"
+      ]
+    },
+    {
+      "name": "Chain Vest",
+      "api_name": "TFT_Item_ChainVest",
+      "path": "data\\item-assets\\TFT_Item_ChainVest.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_chainvest.png",
+      "sha256": "c28d564838f908fe29a584e5a772f765509ebb4c14333b2932f1cacdc0f72c11",
+      "components": []
+    },
+    {
+      "name": "Recurve Bow",
+      "api_name": "TFT_Item_RecurveBow",
+      "path": "data\\item-assets\\TFT_Item_RecurveBow.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_recurvebow.png",
+      "sha256": "847ab5d93b186ee656ca48669fecd0c289a631a3c8a5b3175e5595f317dea3b2",
+      "components": []
+    },
+    {
+      "name": "Giant Slayer",
+      "api_name": "TFT_Item_MadredsBloodrazor",
+      "path": "data\\item-assets\\TFT_Item_MadredsBloodrazor.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_madredsbloodrazor.png",
+      "sha256": "05760e500c46ea8918b3607ef89d0961f48bc76409479d88d1bb363da451d87c",
+      "components": [
+        "B.F. Sword",
+        "Recurve Bow"
+      ]
+    },
+    {
+      "name": "Sunfire Cape",
+      "api_name": "TFT_Item_RedBuff",
+      "path": "data\\item-assets\\TFT_Item_RedBuff.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_redbuff.png",
+      "sha256": "161ae1a736af0cdb0b9dfbb67ace082778e5e7d3ad84cfaec2ddfb73a3254a58",
+      "components": [
+        "Chain Vest",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Hand Of Justice",
+      "api_name": "TFT_Item_UnstableConcoction",
+      "path": "data\\item-assets\\TFT_Item_UnstableConcoction.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_unstableconcoction.png",
+      "sha256": "6d9e186b721d9d2bc421f2a7364f8de827b771010b353598c5c7a38dca5b3625",
+      "components": [
+        "Tear of the Goddess",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Edge of Night",
+      "api_name": "TFT_Item_GuardianAngel",
+      "path": "data\\item-assets\\TFT_Item_GuardianAngel.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_guardianangel.png",
+      "sha256": "0f0a28f9f4e0b0d4b716e6fda235b86675141ecf5adf24bb4e5007a84eed4b0e",
+      "components": [
+        "B.F. Sword",
+        "Chain Vest"
+      ]
+    },
+    {
+      "name": "Tear Of The Goddess",
+      "api_name": "TFT_Item_TearOfTheGoddess",
+      "path": "data\\item-assets\\TFT_Item_TearOfTheGoddess.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_tearofthegoddess.png",
+      "sha256": "088e955d26146772cd95273554bcbd58cee28ac6c50e044c574e4121725978f7",
+      "components": []
+    },
+    {
+      "name": "Negatron Cloak",
+      "api_name": "TFT_Item_NegatronCloak",
+      "path": "data\\item-assets\\TFT_Item_NegatronCloak.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_negatroncloak.png",
+      "sha256": "21ae8f1d8b45baf30e068d408b52e268e7a180e1f517bd30001731cd734fd94b",
+      "components": []
+    },
+    {
+      "name": "Titan's Resolve",
+      "api_name": "TFT_Item_TitansResolve",
+      "path": "data\\item-assets\\TFT_Item_TitansResolve.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_titansresolve.png",
+      "sha256": "a2da7118a2f79ad8a5a4689545842b93b0e680852709680481e6ac533fc4702e",
+      "components": [
+        "Chain Vest",
+        "Recurve Bow"
+      ]
+    },
+    {
+      "name": "Kraken's Fury",
+      "api_name": "TFT_Item_RunaansHurricane",
+      "path": "data\\item-assets\\TFT_Item_RunaansHurricane.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_krakenslayer.png",
+      "sha256": "f311ac1c9819e879c541c37444e12f5ae452e59a265c9ddf3f4d78a85430f11c",
+      "components": [
+        "Negatron Cloak",
+        "Recurve Bow"
+      ]
+    },
+    {
+      "name": "Sparring Gloves",
+      "api_name": "TFT_Item_SparringGloves",
+      "path": "data\\item-assets\\TFT_Item_SparringGloves.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_sparringgloves.png",
+      "sha256": "f53c57bb57a26c1b692991a33cc162e67e21107a7dbdde96df3622d47baf0cf6",
+      "components": []
+    },
+    {
+      "name": "Bloodthirster",
+      "api_name": "TFT_Item_Bloodthirster",
+      "path": "data\\item-assets\\TFT_Item_Bloodthirster.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bloodthirster.png",
+      "sha256": "9976500615b44ab78259611851296ce93483edb90bce6bd9396d70cb9af2ba7e",
+      "components": [
+        "B.F. Sword",
+        "Negatron Cloak"
+      ]
+    },
+    {
+      "name": "Archangel's Staff",
+      "api_name": "TFT_Item_ArchangelsStaff",
+      "path": "data\\item-assets\\TFT_Item_ArchangelsStaff.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_archangelsstaff.png",
+      "sha256": "8cdda41a8dcac28232ca447246418bf296eb1ecef3aa825ed45b5c800f7f0e92",
+      "components": [
+        "Needlessly Large Rod",
+        "Tear of the Goddess"
+      ]
+    },
+    {
+      "name": "Spear of Shojin",
+      "api_name": "TFT_Item_SpearOfShojin",
+      "path": "data\\item-assets\\TFT_Item_SpearOfShojin.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spearofshojin.png",
+      "sha256": "f6ad935fccebfc2b2933226be9481325e054af3fd606d7d4f78fab642c1b0198",
+      "components": [
+        "B.F. Sword",
+        "Tear of the Goddess"
+      ]
+    },
+    {
+      "name": "Evenshroud",
+      "api_name": "TFT_Item_SpectralGauntlet",
+      "path": "data\\item-assets\\TFT_Item_SpectralGauntlet.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spectralgauntlet.png",
+      "sha256": "9cc0b07065ec4cf97b377764b28356bc2dcd32da819c1106084ca9030f0f310f",
+      "components": [
+        "Negatron Cloak",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Spatula",
+      "api_name": "TFT_Item_Spatula",
+      "path": "data\\item-assets\\TFT_Item_Spatula.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spatula.png",
+      "sha256": "6389146940142ce54106ef88439b229c85a3245d536448848774526b6f299c02",
+      "components": []
+    },
+    {
+      "name": "Nashor's Tooth",
+      "api_name": "TFT_Item_Leviathan",
+      "path": "data\\item-assets\\TFT_Item_Leviathan.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_leviathan.png",
+      "sha256": "36dc0a5fbce4311c380a76961ed6bf494155cfe256109623dcf46b797946427f",
+      "components": [
+        "Recurve Bow",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Morellonomicon",
+      "api_name": "TFT_Item_Morellonomicon",
+      "path": "data\\item-assets\\TFT_Item_Morellonomicon.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_morellonomicon.png",
+      "sha256": "97c814670ac04582576530b081fc9063989eeb4f81b6364a3e4bf461232d646c",
+      "components": [
+        "Needlessly Large Rod",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Red Buff",
+      "api_name": "TFT_Item_RapidFireCannon",
+      "path": "data\\item-assets\\TFT_Item_RapidFireCannon.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_rapidfirecannon.png",
+      "sha256": "c6cf76f3c46a7f180833b12e11d07d1b6a60b80cef7ba7732e5c45f04a94728f",
+      "components": [
+        "Recurve Bow",
+        "Recurve Bow"
+      ]
+    },
+    {
+      "name": "Crownguard",
+      "api_name": "TFT_Item_Crownguard",
+      "path": "data\\item-assets\\TFT_Item_Crownguard.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_crownguard.png",
+      "sha256": "1c8ee4aecde742978bce5acf00f72a83c0de966f6f3412849502172c182979e2",
+      "components": [
+        "Needlessly Large Rod",
+        "Chain Vest"
+      ]
+    },
+    {
+      "name": "B.F. Sword",
+      "api_name": "TFT_Item_BFSword",
+      "path": "data\\item-assets\\TFT_Item_BFSword.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bfsword.png",
+      "sha256": "37f8518219f91ca8a1aa6032ba623917e08476e43ebdb3960d2dcb176acecdaf",
+      "components": []
+    },
+    {
+      "name": "Adaptive Helm",
+      "api_name": "TFT_Item_AdaptiveHelm",
+      "path": "data\\item-assets\\TFT_Item_AdaptiveHelm.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_adaptivehelm.png",
+      "sha256": "5f8d2b068278079715e1257258438d8df27cce68d473c818e5ffe5136eb241f0",
+      "components": [
+        "Negatron Cloak",
+        "Tear of the Goddess"
+      ]
+    },
+    {
+      "name": "Blue Buff",
+      "api_name": "TFT_Item_BlueBuff",
+      "path": "data\\item-assets\\TFT_Item_BlueBuff.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bluebuff.png",
+      "sha256": "037e9eda972bc23ac8175f0e93c4d528b784a54e7f12da69f542b19dc7e38f87",
+      "components": [
+        "Tear of the Goddess",
+        "Tear of the Goddess"
+      ]
+    },
+    {
+      "name": "Last Whisper",
+      "api_name": "TFT_Item_LastWhisper",
+      "path": "data\\item-assets\\TFT_Item_LastWhisper.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_lastwhisper.png",
+      "sha256": "344a3b3565a2037189aae9e784d272d77925d1bc018e6f7f1dfbe6faf4621259",
+      "components": [
+        "Recurve Bow",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Jeweled Gauntlet",
+      "api_name": "TFT_Item_JeweledGauntlet",
+      "path": "data\\item-assets\\TFT_Item_JeweledGauntlet.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_jeweledgauntlet.png",
+      "sha256": "2ba30f0b4804d530285d6dd151d4c33d360a418afba1ab46807c7d32ecd7ca89",
+      "components": [
+        "Needlessly Large Rod",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Giant's Belt",
+      "api_name": "TFT_Item_GiantsBelt",
+      "path": "data\\item-assets\\TFT_Item_GiantsBelt.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_giantsbelt.png",
+      "sha256": "2ef8ec921eac211c8dd6bab21c77ec06deaf8e8eca7329cd648325c7c2aef730",
+      "components": []
+    },
+    {
+      "name": "Needlessly Large Rod",
+      "api_name": "TFT_Item_NeedlesslyLargeRod",
+      "path": "data\\item-assets\\TFT_Item_NeedlesslyLargeRod.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_needlesslylargerod.png",
+      "sha256": "8aafd28d3591da2846e018a0d923a676724cbcf52f5efe5074ffc4b4cba8b56a",
+      "components": []
+    },
+    {
+      "name": "Steadfast Heart",
+      "api_name": "TFT_Item_NightHarvester",
+      "path": "data\\item-assets\\TFT_Item_NightHarvester.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_nightharvester.png",
+      "sha256": "421fb705d2de61e27359b5d8092a30372f7e507a5631242915471704b263df81",
+      "components": [
+        "Chain Vest",
+        "Sparring Gloves"
+      ]
+    },
+    {
+      "name": "Frying Pan",
+      "api_name": "TFT_Item_FryingPan",
+      "path": "data\\item-assets\\TFT_Item_FryingPan.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_fryingpan.png",
+      "sha256": "529a1455cfb4c54be28daf30c42b73e4fa2311915f7626ea64ea5b45f003498a",
+      "components": []
+    },
+    {
+      "name": "Tactician's Crown",
+      "api_name": "TFT_Item_ForceOfNature",
+      "path": "data\\item-assets\\TFT_Item_ForceOfNature.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_forceofnature.png",
+      "sha256": "a1ba08067e1c2d0ff353c90ddbc5f411eafe89c7844ea87f24c5a7468930501d",
+      "components": [
+        "Spatula",
+        "Spatula"
+      ]
+    },
+    {
+      "name": "Quicksilver",
+      "api_name": "TFT_Item_Quicksilver",
+      "path": "data\\item-assets\\TFT_Item_Quicksilver.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_quicksilver.png",
+      "sha256": "823a88dc2447a47b7baedf8b8156b8093dadb2996270756ebb57dbe0bfb661d3",
+      "components": [
+        "Sparring Gloves",
+        "Negatron Cloak"
+      ]
+    },
+    {
+      "name": "Deathblade",
+      "api_name": "TFT_Item_Deathblade",
+      "path": "data\\item-assets\\TFT_Item_Deathblade.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_deathblade.png",
+      "sha256": "221c87dd7d134e7b19d40283b7be225e27c4a86f9e74786f501b51803012eb2d",
+      "components": [
+        "B.F. Sword",
+        "B.F. Sword"
+      ]
+    },
+    {
+      "name": "Tactician's Shield",
+      "api_name": "TFT_Item_TacticiansScepter",
+      "path": "data\\item-assets\\TFT_Item_TacticiansScepter.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_tacticiansscepter.png",
+      "sha256": "29038ccbba5abda1dad7b66f2f272a02dd3a0daf6763921055e63bb51635188e",
+      "components": [
+        "Frying Pan",
+        "Frying Pan"
+      ]
+    },
+    {
+      "name": "Warmog's Armor",
+      "api_name": "TFT_Item_WarmogsArmor",
+      "path": "data\\item-assets\\TFT_Item_WarmogsArmor.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_warmogsarmor.png",
+      "sha256": "4c75e21ba9cf3bcdf7704e430e22eda8fc04e58378f863c3f039bb92834dbf45",
+      "components": [
+        "Giant's Belt",
+        "Giant's Belt"
+      ]
+    },
+    {
+      "name": "Void Staff",
+      "api_name": "TFT_Item_StatikkShiv",
+      "path": "data\\item-assets\\TFT_Item_StatikkShiv.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_voidstaff.png",
+      "sha256": "65196918b1461abcd50dcd6c6623210efd859caf229b1b58ae52d3d6070fffa1",
+      "components": [
+        "Recurve Bow",
+        "Tear of the Goddess"
+      ]
+    },
+    {
+      "name": "Hextech Gunblade",
+      "api_name": "TFT_Item_HextechGunblade",
+      "path": "data\\item-assets\\TFT_Item_HextechGunblade.png",
+      "url": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_hextechgunblade.png",
+      "sha256": "2fba15afe6046253d7f75c7683c841c50b9991db86b974ee0cf0243a27d3c9ef",
+      "components": [
+        "B.F. Sword",
+        "Needlessly Large Rod"
+      ]
+    }
+  ]
+}

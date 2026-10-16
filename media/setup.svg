@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1264" height="220" viewBox="0 0 1264 220" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1428"/><stop offset="1" stop-color="#10264A"/></linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0AC8B9" stop-opacity="0.55"/><stop offset="1" stop-color="#0AC8B9" stop-opacity="0"/></radialGradient>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C8AA6E"/></marker>
+  <marker id="arrt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0AC8B9"/></marker>
+</defs>
+<rect width="1264" height="220" rx="22" fill="url(#bg)"/>
+<rect x="40" y="40" width="270" height="140" rx="16" fill="#132B4F" stroke="#24456F" stroke-width="1.5"/>
+<circle cx="84" cy="84" r="20" fill="none" stroke="#C8AA6E" stroke-width="2"/>
+<text x="84" y="91" text-anchor="middle" font-size="19" font-weight="700" fill="#C8AA6E">1</text>
+<text x="120" y="92" font-size="22" font-weight="600" fill="#E8EEF5">Install</text>
+<text x="64" y="148" font-size="16" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" fill="#93A7BD">install.bat</text>
+<line x1="316" y1="110" x2="342" y2="110" stroke="#C8AA6E" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="346" y="40" width="270" height="140" rx="16" fill="#132B4F" stroke="#24456F" stroke-width="1.5"/>
+<circle cx="390" cy="84" r="20" fill="none" stroke="#C8AA6E" stroke-width="2"/>
+<text x="390" y="91" text-anchor="middle" font-size="19" font-weight="700" fill="#C8AA6E">2</text>
+<text x="426" y="92" font-size="22" font-weight="600" fill="#E8EEF5">Pick a comp</text>
+<text x="370" y="148" font-size="16" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" fill="#93A7BD">on metatft.com/comps</text>
+<line x1="622" y1="110" x2="648" y2="110" stroke="#C8AA6E" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="652" y="40" width="270" height="140" rx="16" fill="#132B4F" stroke="#24456F" stroke-width="1.5"/>
+<circle cx="696" cy="84" r="20" fill="none" stroke="#C8AA6E" stroke-width="2"/>
+<text x="696" y="91" text-anchor="middle" font-size="19" font-weight="700" fill="#C8AA6E">3</text>
+<text x="732" y="92" font-size="22" font-weight="600" fill="#E8EEF5">Confirm</text>
+<text x="676" y="148" font-size="16" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" fill="#93A7BD">units · items · levels</text>
+<line x1="928" y1="110" x2="954" y2="110" stroke="#C8AA6E" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="958" y="40" width="270" height="140" rx="16" fill="#132B4F" stroke="#24456F" stroke-width="1.5"/>
+<circle cx="1002" cy="84" r="20" fill="none" stroke="#C8AA6E" stroke-width="2"/>
+<text x="1002" y="91" text-anchor="middle" font-size="19" font-weight="700" fill="#C8AA6E">4</text>
+<text x="1038" y="92" font-size="22" font-weight="600" fill="#E8EEF5">Watch it play</text>
+<text x="982" y="148" font-size="16" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" fill="#93A7BD">F8 stops it any time</text>
+</svg>
